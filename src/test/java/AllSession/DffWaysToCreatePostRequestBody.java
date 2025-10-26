@@ -1,4 +1,4 @@
-package Day1;
+package AllSession;
 
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;

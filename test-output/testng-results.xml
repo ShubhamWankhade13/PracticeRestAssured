@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-10-24T18:48:37 IST" name="Default suite" finished-at="2025-10-24T18:48:44 IST" duration-ms="6978">
+  <suite started-at="2025-10-25T14:32:25 IST" name="Default suite" finished-at="2025-10-25T14:32:31 IST" duration-ms="5601">
     <groups>
     </groups>
-    <test started-at="2025-10-24T18:48:37 IST" name="Default test" finished-at="2025-10-24T18:48:44 IST" duration-ms="6978">
-      <class name="Day1.DffWaysToCreatePostRequestBody">
-        <test-method signature="testPostUsingPojoClass()[pri:0, instance:Day1.DffWaysToCreatePostRequestBody@16d04d3d]" started-at="2025-10-24T18:48:37 IST" name="testPostUsingPojoClass" finished-at="2025-10-24T18:48:44 IST" duration-ms="6836" status="PASS">
+    <test started-at="2025-10-25T14:32:25 IST" name="Default test" finished-at="2025-10-25T14:32:31 IST" duration-ms="5601">
+      <class name="AllSession.testHeaders">
+        <test-method signature="test2()[pri:0, instance:AllSession.testHeaders@16d04d3d]" started-at="2025-10-25T14:32:25 IST" name="test2" finished-at="2025-10-25T14:32:31 IST" duration-ms="5505" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testPostUsingPojoClass -->
-      </class> <!-- Day1.DffWaysToCreatePostRequestBody -->
+        </test-method> <!-- test2 -->
+      </class> <!-- AllSession.testHeaders -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

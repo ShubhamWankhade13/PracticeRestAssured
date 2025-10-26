@@ -1,4 +1,4 @@
-package Day1;
+package AllSession;
 
 public class PojoClass {
 

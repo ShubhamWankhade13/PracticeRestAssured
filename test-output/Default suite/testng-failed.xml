@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Day1.DffWaysToCreatePostRequestBody">
+      <class name="AllSession.Headers">
         <methods>
-          <include name="testPostUsingPojoClass"/>
+          <include name="test1"/>
         </methods>
-      </class> <!-- Day1.DffWaysToCreatePostRequestBody -->
+      </class> <!-- AllSession.Headers -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
